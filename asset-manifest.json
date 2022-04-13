@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multiStoreRaffle/static/css/main.e6c13ad2.css",
+    "main.js": "/multiStoreRaffle/static/js/main.4d6e9694.js",
+    "index.html": "/multiStoreRaffle/index.html",
+    "main.e6c13ad2.css.map": "/multiStoreRaffle/static/css/main.e6c13ad2.css.map",
+    "main.4d6e9694.js.map": "/multiStoreRaffle/static/js/main.4d6e9694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d6e9694.js"
+  ]
+}
